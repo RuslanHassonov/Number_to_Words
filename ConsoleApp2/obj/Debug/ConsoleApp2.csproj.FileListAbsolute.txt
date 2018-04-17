@@ -1,0 +1,14 @@
+C:\Users\Ruslan\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Ruslan\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Ruslan\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Ruslan\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Ruslan\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+Z:\Documents\School\C#\Projects At Home\Number To Words\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+Z:\Documents\School\C#\Projects At Home\Number To Words\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+Z:\Documents\School\C#\Projects At Home\Number To Words\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+Z:\Documents\School\C#\Projects At Home\Number To Words\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+Z:\Documents\School\C#\Projects At Home\Number To Words\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+Z:\Documents\School\C#\Projects At Home\Number To Words\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+Z:\Documents\School\C#\Projects At Home\Number To Words\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
